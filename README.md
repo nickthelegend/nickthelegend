@@ -2,6 +2,8 @@
 
 # 💫 About Me:
 🔭 I’m currently working on BlockChain Projects<br>👯 I’m looking to collaborate on AI Models<br>🤝 I’m looking for help with Cybersecurity Projects<br>🌱 I’m currently learning Artificial Intelligence <br>⚡ Fun fact i am a Noob
+
+<br/>
 <img src="https://tryhackme-badges.s3.amazonaws.com/niveshgajengi.png" alt="Your Image Badge" />
 
 
